@@ -1,0 +1,18 @@
+{
+  "repoName": "The Coders Group Official Repo",
+  "maintainer": "Sasha // The Coders Group",
+  "description": "Кастомный софт для магаза",
+  "packages": [
+    {
+      "appId": "com.mygames.shifregipta",
+      "name": "Шифт Египта",
+      "developer": "The Coders Group",
+      "category": "Железо & IoT",
+      "versionName": "1.0.0",
+      "summary": "Просто Шифр Египта",
+      "iconPath": "icons/egypt.png",
+      "apkPath": "apks/shifr-egipta.apk",
+      "changelog": "Релиз"
+    }
+  ]
+}
